@@ -1,0 +1,28 @@
+{
+    "name": "oncology_prior_auth",
+    "population": 500,
+    "age_range": [
+        40,
+        85
+    ],
+    "gender_split": [
+        0.48,
+        0.52
+    ],
+    "required_conditions": [
+        "lung_cancer",
+        "breast_cancer",
+        "colorectal_cancer"
+    ],
+    "min_encounters": 5,
+    "payer_distribution": {
+        "medicare": 0.45,
+        "commercial": 0.40,
+        "medicaid": 0.15
+    },
+    "synthea_modules": [
+        "lung_cancer",
+        "breast_cancer",
+        "colorectal_cancer"
+    ]
+}

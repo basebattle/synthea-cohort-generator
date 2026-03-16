@@ -1,0 +1,14 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "920f057e-d291-43ad-9f18-7ab0d7d2aa72",
+        "gender": "male",
+        "birthDate": "1948-02-11"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "hospital_at_home",
+    "population": 200,
+    "age_range": [
+        50,
+        85
+    ],
+    "required_conditions": [
+        "pneumonia",
+        "congestive_heart_failure",
+        "copd_exacerbation",
+        "cellulitis"
+    ],
+    "acuity_level": "moderate",
+    "home_eligible": true,
+    "payer_distribution": {
+        "medicare": 0.55,
+        "commercial": 0.30,
+        "medicaid": 0.15
+    }
+}

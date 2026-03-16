@@ -1,0 +1,14 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "ddab497d-3530-4cbf-a358-608c33b0e9c8",
+        "gender": "female",
+        "birthDate": "1973-06-21"
+      }
+    }
+  ]
+}
