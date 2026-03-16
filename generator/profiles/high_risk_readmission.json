@@ -1,0 +1,20 @@
+{
+    "name": "high_risk_readmission",
+    "population": 300,
+    "age_range": [
+        55,
+        90
+    ],
+    "required_conditions": [
+        "congestive_heart_failure",
+        "copd",
+        "diabetes"
+    ],
+    "min_encounters": 8,
+    "ed_visit_minimum": 2,
+    "payer_distribution": {
+        "medicare": 0.60,
+        "commercial": 0.25,
+        "medicaid": 0.15
+    }
+}

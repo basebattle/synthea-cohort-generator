@@ -1,0 +1,14 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "31c24545-823f-473c-972f-4aaa5c1b3510",
+        "gender": "female",
+        "birthDate": "1946-12-06"
+      }
+    }
+  ]
+}

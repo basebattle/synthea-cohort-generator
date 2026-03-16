@@ -1,0 +1,14 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "bd0732d1-cb40-40a3-8e00-2209956fed29",
+        "gender": "female",
+        "birthDate": "1978-02-02"
+      }
+    }
+  ]
+}

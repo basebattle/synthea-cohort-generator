@@ -1,0 +1,26 @@
+{
+    "demographics": {
+        "age_distribution": {
+            "40-65": 0.4,
+            "65-85": 0.6
+        },
+        "gender_split": {
+            "male": 0.45,
+            "female": 0.55
+        }
+    },
+    "condition_prevalence": {
+        "lung_cancer": 0.15,
+        "breast_cancer": 0.25,
+        "colorectal_cancer": 0.20,
+        "congestive_heart_failure": 0.18,
+        "copd": 0.15,
+        "diabetes": 0.30,
+        "pneumonia": 0.10,
+        "cellulitis": 0.05
+    },
+    "utilization": {
+        "avg_encounters_per_year": 6.5,
+        "ed_visits_per_1k": 350
+    }
+}
